@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-29T13:51:44Z" name="Default suite" finished-at="2022-09-29T13:51:44Z" duration-ms="29">
+    <groups>
+    </groups>
+    <test started-at="2022-09-29T13:51:44Z" name="Default test" finished-at="2022-09-29T13:51:44Z" duration-ms="29">
+      <class name="com.qa.TestNg.TestNg">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.TestNg.TestNg@68f4865]" started-at="2022-09-29T13:51:44Z" name="setup" finished-at="2022-09-29T13:51:44Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Startup()[pri:0, instance:com.qa.TestNg.TestNg@68f4865]" started-at="2022-09-29T13:51:44Z" name="Startup" finished-at="2022-09-29T13:51:44Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Startup -->
+        <test-method signature="setup()[pri:0, instance:com.qa.TestNg.TestNg@68f4865]" started-at="2022-09-29T13:51:44Z" name="setup" finished-at="2022-09-29T13:51:44Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="Startup()[pri:0, instance:com.qa.TestNg.TestNg@68f4865]" started-at="2022-09-29T13:51:44Z" name="Startup" finished-at="2022-09-29T13:51:44Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Startup -->
+      </class> <!-- com.qa.TestNg.TestNg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
